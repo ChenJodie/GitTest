@@ -16,3 +16,8 @@ CouponBuyerServiceImpl.java
 
 
 CouponBuyerServiceImpl.saveCouponBuyer
+
+quantity
+
+
+
