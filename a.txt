@@ -20,4 +20,6 @@ CouponBuyerServiceImpl.saveCouponBuyer
 quantity
 
 
+availableEtime
 
+availableEtime
