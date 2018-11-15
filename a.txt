@@ -16,7 +16,6 @@ AAAAAAAAAAAAA
 
 CouponBuyerServiceImpl.saveCouponBuyer
 
-quantity
 
 
 availableEtime
