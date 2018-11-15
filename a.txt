@@ -12,7 +12,6 @@ matchPrice
 matchPrice
 CouponBuyerServiceImpl.java
 
-BBBBBBBBB
 AAAAAAAAAAAAA
 
 CouponBuyerServiceImpl.saveCouponBuyer
